@@ -77,7 +77,7 @@
     "puppeteer": "1.20.0",
     "require-all": "3.0.0",
     "schema-compiler": "0.0.3",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "strip-json-comments": "3.0.1"
   },
   "homepage": "https://github.com/postmanlabs/postman-collection#readme",
